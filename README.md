@@ -22,6 +22,7 @@ Unity 게임개발 심화 개인과제
 - Audio Source를 사용한 게임의 전반적인 분위기 구현
 
 ##  GameMenuScene
+![GameMenu](https://github.com/coco0715/Adventure_get_a_job/assets/101281567/790643f1-7392-4ff9-8d3e-63141316bc09)
 
 ##  GameIntro
-
+https://youtu.be/Rm6WhjXXtGE?si=kKvso7EJ5TIv2xwZ
