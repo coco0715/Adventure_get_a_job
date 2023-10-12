@@ -26,4 +26,6 @@ Unity 게임개발 심화 개인과제
 
 ##  GameIntro
 🔊 사운드가 포함되어 있어요.
-https://github.com/coco0715/Adventure_get_a_job/assets/101281567/e5e0a3a0-007a-4adc-82cd-b54e0f8a1cf9
+https://github.com/coco0715/Adventure_get_a_job/assets/101281567/cdde7118-8590-4aeb-a410-2e474024ce59
+
+
