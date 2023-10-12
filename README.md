@@ -25,4 +25,4 @@ Unity 게임개발 심화 개인과제
 ![GameMenu](https://github.com/coco0715/Adventure_get_a_job/assets/101281567/790643f1-7392-4ff9-8d3e-63141316bc09)
 
 ##  GameIntro
-https://youtu.be/Rm6WhjXXtGE?si=kKvso7EJ5TIv2xwZ
+[https://youtu.be/Rm6WhjXXtGE?si=kKvso7EJ5TIv2xwZ](https://github.com/coco0715/Adventure_get_a_job/assets/101281567/e5e0a3a0-007a-4adc-82cd-b54e0f8a1cf9)https://github.com/coco0715/Adventure_get_a_job/assets/101281567/e5e0a3a0-007a-4adc-82cd-b54e0f8a1cf9
