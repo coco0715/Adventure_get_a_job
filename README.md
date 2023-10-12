@@ -1,2 +1,27 @@
-# Adventure_get_a_job
-Unity Chapter 3-3 개인과제 리포지토리 입니다.
+# Adventure get a job
+Unity 게임개발 심화 개인과제
+
+## 🖥️ 과제 소개
+나만의 게임 만들어보기
+
+## 🕹️ 게임 소개
+게임 개발자로 취업을 준비하는 주인공이 라면을 사러 편의점에 갔다 돌아오는 길에 교통사고를 당하면서 시작되는 미스테리 어드벤처 게임
+
+## 🕰️ 개발 기간
+* 23.10.11일 - 23.10.12일
+
+### 🧑‍🤝‍🧑 맴버구성
+- 최하나
+
+### ⚙️ 개발 환경
+- `Unity 2022.3.2f1`
+
+## 📌 주요 기능
+- Coroutine을 사용한 GameIntro 구현
+- Input Action을 사용한 player의 이동 구현 중
+- Audio Source를 사용한 게임의 전반적인 분위기 구현
+
+##  GameMenuScene
+
+##  GameIntro
+
